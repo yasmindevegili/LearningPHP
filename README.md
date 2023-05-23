@@ -3,7 +3,7 @@
 
 In the /challenges/:
 
-- <a href="https://github.com/yasmindevegili/PHP-Exercises/blob/bf979a3559ad737f3edaf9f2f4645f703f5341e6/desafio_1.php">desafio_1.php</a>: meters to millimeter converter;
+- <a href="https://github.com/yasmindevegili/LearningPHP/blob/main/challenges/desafio_1.php">desafio_1.php</a>: meters to millimeter converter;
 - <a href="https://github.com/yasmindevegili/PHP-Exercises/blob/bf979a3559ad737f3edaf9f2f4645f703f5341e6/desafio_2.php">desafio_2.php</a>: time converter;
 - <a href="https://github.com/yasmindevegili/PHP-Exercises/blob/bf979a3559ad737f3edaf9f2f4645f703f5341e6/desafio_3.php">desafio_3.php</a>: salary increase calculator;
 - <a href="https://github.com/yasmindevegili/PHP-Exercises/blob/bf979a3559ad737f3edaf9f2f4645f703f5341e6/desafio_4.php">desafio_4.php</a>: discount calculator;
